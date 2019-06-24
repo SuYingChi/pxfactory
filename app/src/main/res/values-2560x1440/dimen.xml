@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="dim0">0.0px</dimen>
+<dimen name="dim5">9.6px</dimen>
+<dimen name="dim10">19.2px</dimen>
+<dimen name="dim15">28.8px</dimen>
+<dimen name="dim20">38.4px</dimen>
+<dimen name="dim25">48.0px</dimen>
+<dimen name="dim30">57.6px</dimen>
+<dimen name="dim35">67.2px</dimen>
+<dimen name="dim40">76.8px</dimen>
+<dimen name="dim45">86.4px</dimen>
+<dimen name="dim50">96.0px</dimen>
+<dimen name="dim55">105.6px</dimen>
+<dimen name="dim60">115.2px</dimen>
+<dimen name="dim65">124.8px</dimen>
+<dimen name="dim70">134.4px</dimen>
+<dimen name="dim75">144.0px</dimen>
+<dimen name="dim80">153.6px</dimen>
+<dimen name="dim85">163.2px</dimen>
+<dimen name="dim90">172.8px</dimen>
+<dimen name="dim95">182.4px</dimen>
+<dimen name="dim100">192.0px</dimen>
+</resources>

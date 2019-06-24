@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PxDimenBuilder/PxDimenBuilder.iml" filepath="$PROJECT_DIR$/PxDimenBuilder/PxDimenBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PxDimenFactory-master.iml" filepath="$PROJECT_DIR$/PxDimenFactory-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

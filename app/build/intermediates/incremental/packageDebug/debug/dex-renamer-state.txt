@@ -1,0 +1,4 @@
+#Thu Jun 06 10:13:18 CST 2019
+base.0=C\:\\Users\\mshtyfb\\Downloads\\PxDimenFactory-master\\PxDimenFactory-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\mshtyfb\\Downloads\\PxDimenFactory-master\\PxDimenFactory-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
